@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gMClAzlPvyhUaMgcmLMQ9XY0B+YtXIxARkITF9PKMG+zVFkemIdAEkbFqJwRRyCdCcQoqBhNStoWvM36cRkkA==",
+  "success": true,
+  "projectFilePath": "D:\\WS DINET\\InjeccionDependencia\\InjeccionDependencia\\InjeccionDependencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chuamani\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\chuamani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
