@@ -1,0 +1,6 @@
+E:\Cross\bin\Debug\Cross.dll
+E:\Cross\bin\Debug\Cross.pdb
+E:\Cross\obj\Debug\Cross.csproj.AssemblyReference.cache
+E:\Cross\obj\Debug\Cross.csproj.CoreCompileInputs.cache
+E:\Cross\obj\Debug\Cross.dll
+E:\Cross\obj\Debug\Cross.pdb

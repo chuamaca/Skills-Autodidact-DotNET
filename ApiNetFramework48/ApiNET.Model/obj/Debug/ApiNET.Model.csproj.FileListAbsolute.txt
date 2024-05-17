@@ -1,0 +1,11 @@
+E:\ApiNET.Model\bin\Debug\ApiNET.Model.dll
+E:\ApiNET.Model\bin\Debug\ApiNET.Model.pdb
+E:\ApiNET.Model\bin\Debug\EntityFramework.dll
+E:\ApiNET.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\ApiNET.Model\bin\Debug\EntityFramework.xml
+E:\ApiNET.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\ApiNET.Model\obj\Debug\ApiNET.Model.csproj.AssemblyReference.cache
+E:\ApiNET.Model\obj\Debug\ApiNET.Model.csproj.CoreCompileInputs.cache
+E:\ApiNET.Model\obj\Debug\ApiNET.Model.csproj.CopyComplete
+E:\ApiNET.Model\obj\Debug\ApiNET.Model.dll
+E:\ApiNET.Model\obj\Debug\ApiNET.Model.pdb
