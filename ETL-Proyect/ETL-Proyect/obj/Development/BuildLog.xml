@@ -2,13 +2,18 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ETL-Proyect</Name>
-    <LastWriteTime>2024-07-05T22:21:28.0024593Z</LastWriteTime>
+    <LastWriteTime>2024-07-26T22:21:29.0148566Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2024-07-05T22:32:01.1588738Z</LastWriteTime>
+      <Name>TareaEjecutarSQL.dtsx</Name>
+      <LastWriteTime>2024-07-26T22:08:25.6575513Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>TareaFlujoDatos.dtsx</Name>
+      <LastWriteTime>2024-07-26T22:21:29.0037852Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

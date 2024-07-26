@@ -1,18 +1,18 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="7/5/2024 4:37:10 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-ULG9N1G"
   DTS:CreatorName="DESKTOP-ULG9N1G\User"
-  DTS:DTSID="{EF58ADA8-D139-49FA-B4E7-B6D31C612B33}"
+  DTS:DTSID="{C5579662-BF64-4ED4-B7FB-F9CD3CB814D6}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5556.0"
   DTS:LocaleID="10250"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="TareaEjecutarSQL"
   DTS:PackageType="5"
-  DTS:VersionBuild="6"
-  DTS:VersionGUID="{A80FB72C-957F-4E7C-A2FB-F369485A64E1}">
+  DTS:VersionBuild="9"
+  DTS:VersionGUID="{795E40ED-23E1-4323-A542-3A32DBDCAE4D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -141,23 +141,27 @@
           Id="Package\Actualizar Pais"
           TopLeft="203.33332222369,39.8666663894388" />
         <NodeLayout
+          Size="385.6,41.6"
+          Id="Package\ACTUALIZAR PAISA FRANCE A FRANCIA De la tabla Customers"
+          TopLeft="70.8333294631707,234.866665033433" />
+        <NodeLayout
           Size="289.6,41.6"
           Id="Package\Obtener CustomerId Segun Country and Com"
-          TopLeft="139.999992350737,142.133332344956" />
+          TopLeft="124.999993170301,128.266665774716" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción]"
-          TopLeft="280.866657287214,81.4666663894388">
+          TopLeft="273.366657696995,81.4666663894388">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60.6666659555171"
+              EndConnector="0,46.7999993852776"
               Start="0,0"
-              End="0,53.1666659555171">
+              End="0,39.2999993852776">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,53.1666659555171" />
+                    End="0,39.2999993852776" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -166,24 +170,20 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="385.6,41.6"
-          Id="Package\ACTUALIZAR PAISA FRANCE A FRANCIA De la tabla Customers"
-          TopLeft="96.6666613850331,233.133331712153" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 1]"
-          TopLeft="287.133326867885,183.733332344956">
+          TopLeft="266.716661316736,169.866665774716">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,49.3999993671972"
+              EndConnector="0,64.9999992587165"
               Start="0,0"
-              End="0,41.8999993671972">
+              End="0,57.4999992587165">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,41.8999993671972" />
+                    End="0,57.4999992587165" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
